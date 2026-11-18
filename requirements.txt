@@ -1,0 +1,6 @@
+streamlit>=1.50
+streamlit-autorefresh
+pandas
+requests
+python-dotenv
+pyarrow
